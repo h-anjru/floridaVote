@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10282	11/08/2016	2016 General Election	State Totals	Voted Early	225,962	256,593	13,530	89,273	585,358	10/26/2016  7:06AM
+10282	11/08/2016	2016 General Election	Alachua	Voted Early	1,753	4,795	137	870	7,555	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Baker	Voted Early	986	433	11	96	1,526	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Bay	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Bradford	Voted Early	477	332	14	59	882	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Brevard	Voted Early	9,717	7,776	667	3,209	21,369	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Broward	Voted Early	12,654	38,190	789	10,100	61,733	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Calhoun	Voted Early	160	326	2	37	525	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Charlotte	Voted Early	3,381	2,043	238	975	6,637	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Citrus	Voted Early	4,017	2,173	210	1,078	7,478	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Clay	Voted Early	6,990	2,258	209	1,246	10,703	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Collier	Voted Early	8,150	4,095	339	2,461	15,045	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Columbia	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	DeSoto	Voted Early	357	503	11	79	950	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Dixie	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Duval	Voted Early	12,642	15,227	794	3,310	31,973	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Escambia	Voted Early	5,098	3,769	202	962	10,031	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Flagler	Voted Early	2,677	2,165	128	806	5,776	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Franklin	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Gadsden	Voted Early	341	1,562	19	75	1,997	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Gilchrist	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Glades	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Gulf	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Hamilton	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Hardee	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Hendry	Voted Early	595	604	23	77	1,299	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Hernando	Voted Early	2,500	1,826	170	697	5,193	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Highlands	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Hillsborough	Voted Early	13,146	17,273	939	5,686	37,044	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Holmes	Voted Early	359	153	3	22	537	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Indian River	Voted Early	3,524	2,027	208	1,027	6,786	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Jackson	Voted Early	745	908	23	75	1,751	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Jefferson	Voted Early	190	343	8	32	573	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Lafayette	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Lake	Voted Early	5,918	4,677	424	1,949	12,968	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Lee	Voted Early	9,202	6,037	414	3,212	18,865	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Leon	Voted Early	2,601	5,654	167	798	9,220	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Levy	Voted Early	451	291	40	74	856	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Liberty	Voted Early	50	169	1	9	229	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Madison	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Manatee	Voted Early	3,747	3,012	177	1,264	8,200	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Marion	Voted Early	6,876	5,180	536	1,759	14,351	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Martin	Voted Early	3,500	1,856	311	905	6,572	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Miami-Dade	Voted Early	19,740	35,386	867	13,648	69,641	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Monroe	Voted Early	1,115	1,188	72	515	2,890	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Nassau	Voted Early	3,376	1,124	134	491	5,125	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Okaloosa	Voted Early	5,644	1,726	129	901	8,400	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Okeechobee	Voted Early	714	427	32	101	1,274	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Orange	Voted Early	9,468	17,552	716	6,205	33,941	10/26/2016  7:06AM
+10282	11/08/2016	2016 General Election	Osceola	Voted Early	2,571	4,533	188	1,565	8,857	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Palm Beach	Voted Early	9,023	16,694	1,074	5,704	32,495	10/26/2016  7:06AM
+10282	11/08/2016	2016 General Election	Pasco	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Pinellas	Voted Early	3,048	3,777	306	1,619	8,750	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Polk	Voted Early	5,457	6,190	362	2,167	14,176	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Putnam	Voted Early	1,534	1,217	54	260	3,065	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Santa Rosa	Voted Early	4,648	1,474	189	735	7,046	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Sarasota	Voted Early	7,000	5,188	437	2,599	15,224	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Seminole	Voted Early	6,880	6,823	358	2,863	16,924	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	St. Johns	Voted Early	7,812	3,560	360	1,731	13,463	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	St. Lucie	Voted Early	2,963	4,379	256	1,352	8,950	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Sumter	Voted Early	4,905	1,985	283	1,153	8,326	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Suwannee	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Taylor	Voted Early	247	297	10	16	570	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Union	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Volusia	Voted Early	5,911	6,608	453	2,561	15,533	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Wakulla	Voted Early	607	591	25	107	1,330	10/26/2016  5:38AM
+10282	11/08/2016	2016 General Election	Walton	Voted Early	0	0	0	0	0	
+10282	11/08/2016	2016 General Election	Washington	Voted Early	495	217	11	31	754	10/26/2016  5:38AM

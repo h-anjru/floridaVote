@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 25 14:04:09 2016
 
-@author: handr
+@author: h-anjru
 """
 
 from urllib.request import urlopen
@@ -22,11 +22,11 @@ ve = urlopen('http://fvrselectionfiles.elections.myflorida.com/countyballotrepor
 # save downloaded files, you know, because
 path = 'D:\\Dropbox\\Personal\\Python\\floridaVote\\'
 os.chdir(path)
-vm_txt = 'absVoted_'+time.strftime('%m%d')+'.txt'
+vm_txt = path+'from_state\\absVoted_'+time.strftime('%m%d')+'.txt'
 f = open(vm_txt,'wb')
 f.write(vm.read())
 f.close()
-ve_txt = 'earlyVoted_'+time.strftime('%m%d')+'.txt'
+ve_txt = path+'from_state\\earlyVoted_'+time.strftime('%m%d')+'.txt'
 f = open(ve_txt,'wb')
 f.write(ve.read())
 f.close()
@@ -120,7 +120,7 @@ def set( num ):
     out = locale.format('%d',num,grouping=True)
     return out
 
-datafile = cbook.get_sample_data(path+'countyMap.png') # background image
+datafile = cbook.get_sample_data(path+'assets\\countyMap.png') # background image
 img = imread(datafile)
 fig = plt.figure(frameon=False)
 fig.set_size_inches(10,9)
@@ -161,7 +161,7 @@ plt.annotate('Created by @h_anjroo',
              xy=(-88,scl*25),fontsize=7)
 plt.annotate('Source: https://countyballotfiles.elections.myflorida.com/FVRSCountyBallotReports/AbsenteeEarlyVotingReports/PublicStats',
              xy=(-88,scl*24.8),fontsize=7)
-plt.savefig('voting_thru_'+when2+'.png',
+plt.savefig('pngs\\voting_thru_'+when2+'.png',
             dpi=200, bbox_inches='tight')
 
 

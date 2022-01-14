@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10282	11/08/2016	2016 General Election	State Totals	Voted Vote-by-Mail	556,058	525,076	34,176	208,124	1,323,434	10/25/2016  7:28AM
+10282	11/08/2016	2016 General Election	Alachua	Voted Vote-by-Mail	3,544	6,790	270	1,528	12,132	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Baker	Voted Vote-by-Mail	513	474	10	63	1,060	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Bay	Voted Vote-by-Mail	5,152	2,773	138	879	8,942	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Bradford	Voted Vote-by-Mail	640	534	22	106	1,302	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Brevard	Voted Vote-by-Mail	21,268	15,190	1,493	6,284	44,235	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Broward	Voted Vote-by-Mail	21,735	46,898	1,273	13,557	83,463	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Calhoun	Voted Vote-by-Mail	155	369	6	29	559	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Charlotte	Voted Vote-by-Mail	10,389	7,232	787	3,525	21,933	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Citrus	Voted Vote-by-Mail	8,034	5,045	487	2,412	15,978	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Clay	Voted Vote-by-Mail	6,141	2,198	273	1,457	10,069	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Collier	Voted Vote-by-Mail	20,722	8,249	827	5,979	35,777	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	Columbia	Voted Vote-by-Mail	1,428	1,199	99	300	3,026	10/25/2016  4:02AM
+10282	11/08/2016	2016 General Election	DeSoto	Voted Vote-by-Mail	446	517	10	129	1,102	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Dixie	Voted Vote-by-Mail	443	418	40	71	972	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Duval	Voted Vote-by-Mail	14,960	11,945	818	3,319	31,042	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Escambia	Voted Vote-by-Mail	11,082	7,277	523	2,473	21,355	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Flagler	Voted Vote-by-Mail	3,471	2,414	141	1,184	7,210	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Franklin	Voted Vote-by-Mail	159	278	10	28	475	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Gadsden	Voted Vote-by-Mail	378	1,775	17	87	2,257	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Gilchrist	Voted Vote-by-Mail	536	342	27	77	982	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Glades	Voted Vote-by-Mail	147	134	13	21	315	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Gulf	Voted Vote-by-Mail	423	375	12	48	858	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Hamilton	Voted Vote-by-Mail	277	438	4	48	767	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Hardee	Voted Vote-by-Mail	175	118	6	26	325	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Hendry	Voted Vote-by-Mail	452	467	11	65	995	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Hernando	Voted Vote-by-Mail	10,092	8,471	764	3,180	22,507	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Highlands	Voted Vote-by-Mail	3,350	2,360	213	788	6,711	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Hillsborough	Voted Vote-by-Mail	35,243	40,831	2,517	14,863	93,454	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Holmes	Voted Vote-by-Mail	745	516	10	57	1,328	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Indian River	Voted Vote-by-Mail	5,610	3,222	336	1,641	10,809	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Jackson	Voted Vote-by-Mail	865	1,290	20	108	2,283	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Jefferson	Voted Vote-by-Mail	215	453	14	35	717	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Lafayette	Voted Vote-by-Mail	110	175	0	12	297	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Lake	Voted Vote-by-Mail	8,728	5,598	535	2,233	17,094	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Lee	Voted Vote-by-Mail	48,588	25,999	2,094	16,612	93,293	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Leon	Voted Vote-by-Mail	4,456	7,933	246	1,177	13,812	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Levy	Voted Vote-by-Mail	1,184	768	105	166	2,223	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Liberty	Voted Vote-by-Mail	28	178	2	13	221	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Madison	Voted Vote-by-Mail	185	320	9	27	541	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Manatee	Voted Vote-by-Mail	15,640	11,407	765	5,646	33,458	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Marion	Voted Vote-by-Mail	12,071	8,051	895	2,783	23,800	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Martin	Voted Vote-by-Mail	9,523	4,562	739	2,185	17,009	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Miami-Dade	Voted Vote-by-Mail	45,786	55,862	1,482	25,299	128,429	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Monroe	Voted Vote-by-Mail	3,934	3,268	220	1,269	8,691	10/25/2016  7:06AM
+10282	11/08/2016	2016 General Election	Nassau	Voted Vote-by-Mail	3,117	1,388	123	574	5,202	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Okaloosa	Voted Vote-by-Mail	6,778	2,350	228	1,451	10,807	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Okeechobee	Voted Vote-by-Mail	780	616	27	122	1,545	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Orange	Voted Vote-by-Mail	20,624	32,033	1,048	11,539	65,244	10/25/2016  7:28AM
+10282	11/08/2016	2016 General Election	Osceola	Voted Vote-by-Mail	6,157	10,262	487	4,234	21,140	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Palm Beach	Voted Vote-by-Mail	17,663	30,979	1,888	9,522	60,052	10/25/2016  7:06AM
+10282	11/08/2016	2016 General Election	Pasco	Voted Vote-by-Mail	17,695	15,488	1,817	7,104	42,104	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Pinellas	Voted Vote-by-Mail	45,610	46,456	4,152	19,153	115,371	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Polk	Voted Vote-by-Mail	16,561	14,691	1,214	5,639	38,105	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Putnam	Voted Vote-by-Mail	1,328	1,222	55	219	2,824	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Santa Rosa	Voted Vote-by-Mail	6,204	2,289	311	1,203	10,007	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Sarasota	Voted Vote-by-Mail	17,872	18,354	1,170	6,851	44,247	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Seminole	Voted Vote-by-Mail	11,731	9,320	534	4,468	26,053	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	St. Johns	Voted Vote-by-Mail	6,987	3,605	334	1,716	12,642	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	St. Lucie	Voted Vote-by-Mail	7,820	8,547	696	3,114	20,177	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Sumter	Voted Vote-by-Mail	7,093	4,010	352	2,139	13,594	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Suwannee	Voted Vote-by-Mail	1,137	927	83	130	2,277	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Taylor	Voted Vote-by-Mail	420	664	16	31	1,131	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Union	Voted Vote-by-Mail	157	185	7	26	375	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Volusia	Voted Vote-by-Mail	17,505	14,782	1,236	6,566	40,089	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Wakulla	Voted Vote-by-Mail	699	846	42	94	1,681	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Walton	Voted Vote-by-Mail	2,282	764	58	358	3,462	10/25/2016  4:51AM
+10282	11/08/2016	2016 General Election	Washington	Voted Vote-by-Mail	815	585	15	82	1,497	10/25/2016  4:51AM
